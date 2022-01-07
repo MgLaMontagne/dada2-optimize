@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: DADA2 Optimization Loop
+abstract: This R script contains a loop that automates selection of parameters for DADA2
+authors:
+  - family-names: LaMontagne
+    given-names: Michael
+  - name: "The Research Software project"
+version: 0.0.1
+date-released: "2022-01-07"
+repository-code: "https://github.com/MgLaMontagne/dada2-optimize"
